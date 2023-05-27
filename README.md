@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@20it147](https://medium.com/@20it147)
 
-- 💬 Ask me about **React.js,Node.js,HTML,CSS,JS,C++,Python**
+- 💬 Ask me about **React.js,Node.js,HTML,CSS,JS,C++**
 
 - 📫 How to reach me **mauryasoni71@gmail.com**
 
