@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js,Node.js**
 
-- 👨‍💻 All of my projects are available at [https://maurya2201.github.io/ms/](https://maurya2201.github.io/ms/)
+- 👨‍💻 All of my projects are available at [https://mauryasoni.netlify.app/](https://mauryasoni.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@20it147](https://medium.com/@20it147)
 
